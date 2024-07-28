@@ -1,0 +1,43 @@
+{
+	"name": "nightcord-vscode-themes",
+	"displayName": "Nightcord VSCode Theme",
+	"description": "25-ji Nightcord Themes for VS Code",
+	"version": "0.0.2",
+	"publisher": "YukiShop",
+	"author": {
+		"name": "Yuki"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"homepage": "",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#3d3659",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"VSCode",
+		"Themes",
+		"Night",
+		"ProjectSekai",
+		"Nightcord"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "NightCord",
+				"uiTheme": "vs-dark",
+				"path": "NightCordTheme.json"
+			}
+		]
+	}
+}
