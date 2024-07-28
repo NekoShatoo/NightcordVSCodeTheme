@@ -2,7 +2,7 @@
 	"name": "nightcord-vscode-themes",
 	"displayName": "Nightcord VSCode Theme",
 	"description": "25-ji Nightcord Themes for VS Code",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "YukiShop",
 	"author": {
 		"name": "Yuki"
