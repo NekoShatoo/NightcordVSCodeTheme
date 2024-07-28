@@ -27,6 +27,9 @@ The theme aims to capture the essence of "25時、ナイトコードで。" with
 
 Please note that this theme is an unofficial fan creation and is not endorsed by the creators of "Project Sekai." We hope this theme brings you a touch of the "25時、ナイトコードで。" spirit and makes your coding sessions a bit more magical!
 
+## Build/Package
+```vsce package```
+
 ## Thank You
 
 Thank you for supporting community projects like this one. We hope you enjoy using the "25時、ナイトコードで。" VSCode theme as much as we enjoyed creating it. Happy coding!
